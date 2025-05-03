@@ -31,7 +31,7 @@ Inicia el servidor de desarrollo:
 npm run dev
 
 
----
+
 
 ## 📦 Tecnologías principales
 
@@ -64,7 +64,7 @@ Crear una aplicación que permita al usuario **crear**, **listar**, **eliminar**
 - Persistencia con LocalStorage
 - Responsive y accesible
 
----
+
 
 
 
