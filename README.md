@@ -12,7 +12,7 @@ Este proyecto corresponde a la prueba técnica dividida en dos etapas: la **prue
 
  Clona el repositorio:
 
-```bash
+
 git clone https://github.com/tuusuario/nombre-repo.git
 
 Ingresa a la carpeta del proyecto:
