@@ -10,21 +10,19 @@ Este proyecto corresponde a la prueba técnica dividida en dos etapas: la **prue
 
 ## 🧾 Instalación y ejecución
 
- Clona el repositorio:
+ Clona el repositorio: AndresJuan00700/InventarioProductos
 
 
 git clone 
 
 Ingresa a la carpeta del proyecto:
 
-bash
-Copiar
-Editar
 cd nombre-repo
+
 Instala las dependencias:
 
-
 npm install
+
 Inicia el servidor de desarrollo:
 
 
