@@ -10,7 +10,7 @@ Este proyecto corresponde a la prueba técnica dividida en dos etapas: la **prue
 
 ## 🧾 Instalación y ejecución
 
-1. **Clona el repositorio:**
+ Clona el repositorio:
 
 ```bash
 git clone https://github.com/tuusuario/nombre-repo.git
