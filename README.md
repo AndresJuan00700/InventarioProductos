@@ -5,7 +5,7 @@ Este proyecto corresponde a la prueba técnica dividida en dos etapas: la **prue
 ---
 
 ## 🚀 Demo en vivo
-[Enlace al despliegue en Vercel/Netlify] <!-- (opcional, agrega si lo tienes) -->
+https://chimerical-sherbet-f409b4.netlify.app/
 
 
 ## 🧾 Instalación y ejecución
